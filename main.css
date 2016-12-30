@@ -1,12 +1,9 @@
-h1 {
-    color: Crimson;
-    background-color: DodgerBlue;
-    font-family: Verdana;
-    font-size: 35px;
-}
-
 h1.heading{
-   border: 10px solid Black;
+   color: Black;
+   background-color: NavajoWhite;
+   font-family: Verdana;
+   font-size: 48px;
+   border: 1px solid Black;
 }
 
 div.header{
