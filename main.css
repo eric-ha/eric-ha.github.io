@@ -1,3 +1,6 @@
+* {
+   border-style: solid;
+}
 h1.heading{
    color: Black;
    background-color: NavajoWhite;
