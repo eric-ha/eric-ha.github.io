@@ -1,4 +1,4 @@
 function random(){
-  alert("HELLO!!!!");
+  alert("hell yes");
 }
 
