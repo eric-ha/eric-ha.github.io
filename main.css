@@ -1,12 +1,10 @@
-* {
-   border-style: solid;
-}
-
 .navigation{
+   list-style-type: none;
    overflow-y: auto;
    position: relative;
    text-align: center;
    width: 100%
+   display: inline-block;
 }
 
 h1.heading{
