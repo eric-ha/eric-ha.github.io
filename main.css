@@ -1,5 +1,8 @@
-.navigation{
+ul {
    list-style-type: none;
+}
+
+.navigation{
    overflow-y: auto;
    position: relative;
    text-align: center;
@@ -15,6 +18,7 @@ h1.heading{
    font-size: 48px;
    border: 1px solid Black;
    padding: 30px 30px;
+   text-align: center;
 }
 
 p {
