@@ -5,23 +5,21 @@
    text-align: center;
    width: 100%
    display: inline-block;
+   font-family: 'Cabin', sans-serif;
 }
 
 h1.heading{
    color: Black;
    background-color: NavajoWhite;
-   font-family: Courier New;
+   font-family: Courier New, sans-serif;
    font-size: 48px;
    border: 1px solid Black;
    padding: 30px 30px;
 }
 
-div.header{
-   text-align: center;
-}
-
 p {
-    font-family: Courier New;
+    font-family: Courier New, sans-serif;
     font-size: 16px;
+    text-align: center;
 }
 
