@@ -5,7 +5,7 @@ ul {
 .navigation{
    overflow-y: auto;
    position: relative;
-   text-align: center;
+   /*text-align: center;*/
    width: 100%
    display: inline;
    font-family: 'Cabin', sans-serif;
