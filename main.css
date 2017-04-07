@@ -9,6 +9,7 @@ ul {
    width: 100%
    display: inline;
    font-family: 'Cabin', sans-serif;
+   text-decoration:none;
 }
 
 h1{
